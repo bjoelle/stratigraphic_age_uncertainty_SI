@@ -1,0 +1,225 @@
+"occurrence_no","record_type","reid_no","flags","collection_no","identified_name","identified_rank","identified_no","difference","accepted_name","accepted_rank","accepted_no","early_interval","late_interval","max_ma","min_ma","reference_no"
+150831,"occ",,,13403,"Dorudon atrox","species",53288,"","Dorudon atrox","species",62994,"Priabonian","",38,33.9,6026
+300813,"occ",,,28981,"n. gen. Artiocetus n. sp. clavis","species",53317,"","Artiocetus clavis","species",53317,"Lutetian","",47.8,41.3,8328
+348025,"occ",,,32902,"Basilosaurus cf. cetoides","species",53153,"","Basilosaurus cetoides","species",63132,"Priabonian","",38,33.9,36758
+348043,"occ",,,32920,"Basilosauridae indet.","family",42936,"","Basilosauridae","family",42936,"Priabonian","",38,33.9,8825
+460969,"occ",,,45456,"Pomatodelphis inaequalis","species",62907,"","Pomatodelphis inaequalis","species",62907,"Serravallian","",13.82,11.62,2613
+460993,"occ",,,18573,"Pontoporiidae indet.","family",42965,"","Pontoporiidae","family",42965,"Late Hemphillian","",10.3,4.9,2613
+461048,"occ",13827,,45469,"Scaldicetus sp.","genus",36900,"","Scaldicetus","genus",36900,"Serravallian","",13.82,11.62,2613
+461049,"occ",,,45469,"Balaenoptera n. sp. floridana","species",68451,"invalid subgroup of","Mysticeti","suborder",42971,"Serravallian","",13.82,11.62,12596
+461091,"occ",,,45485,"n. gen. Scaphokogia n. sp. cochlearis","species",62929,"","Scaphokogia cochlearis","species",62929,"Tortonian","",11.62,7.246,11895
+461097,"occ",,,45489,"Megaptera n. sp. miocaena","species",69900,"invalid subgroup of","Megaptera","genus",36760,"Tortonian","",11.62,7.246,11899
+461111,"occ",,,13297,"n. gen. Aulophyseter n. sp. morricei","species",63838,"","Aulophyseter morricei","species",63838,"Langhian","",15.97,13.82,11909
+462051,"occ",,,45586,"n. gen. Nalacetus n. sp. ratimitus","species",63098,"","Nalacetus ratimitus","species",63098,"Lutetian","",47.8,41.3,11990
+462339,"occ",,,45590,"Gaviacetus n. sp. sahnii","species",63127,"recombined as","Kharodacetus sahnii","species",63127,"Lutetian","",47.8,41.3,11997
+462341,"occ",,,45592,"Remingtonocetus sloani","species",63125,"recombined as","Andrewsiphius sloani","species",63120,"Lutetian","",47.8,41.3,11997
+462841,"occ",,,45656,"Squalodon andrewi","species",63220,"invalid subgroup of","Squalodontidae","family",42939,"Waitakian","",25.2,21.7,12036
+462876,"occ",,,45668,"Archaeoceti ? indet.","suborder",42933,"","Archaeoceti","suborder",42933,"Bortonian","Whaingaroan",43,27.3,12038
+464567,"occ",,,45887,"Prosqualodon australis","species",58388,"","Prosqualodon australis","species",58388,"Aquitanian","Burdigalian",23.03,15.97,12217
+465443,"occ",,,13297,"n. gen. Tiphyocetus n. sp. temblorensis","species",63836,"","Tiphyocetus temblorensis","species",63836,"Langhian","",15.97,13.82,12162
+465461,"occ",12071,,45458,"Phocoenidae indet.","family",53269,"","Phocoenidae","family",102804,"Messinian","",7.246,5.333,12282
+465650,"occ",,,37598,"Eosqualodon n. sp. langewieschei","species",63228,"","Eosqualodon langewieschei","species",63228,"Chattian","",28.1,23.03,12298
+478171,"occ",,,47425,"n. gen. Miokogia elongatus","species",64553,"","Miokogia elongatus","species",64552,"Burdigalian","",20.44,15.97,12747
+478172,"occ",,,47426,"Miokogia elongatus","species",64553,"","Miokogia elongatus","species",64552,"Burdigalian","",20.44,15.97,12747
+478174,"occ",,,47428,"Kogia cf. simus","species",68218,"recombined as","Kogia sima","species",103701,"Piacenzian","",3.6,2.588,15410
+478181,"occ",,,11601,"Acrodelphis bakersfieldensis","species",64562,"recombined as","Argyrocetus bakersfieldensis","species",64562,"Aquitanian","",23.03,20.44,12749
+478298,"occ",,,47465,"n. gen. Protobalaena sp.","genus",36832,"nomen dubium","Mysticeti","suborder",42971,"Late Miocene","Late Pliocene",11.608,2.588,12761
+478721,"occ",,,34741,"Cetotherium n. sp. maicopicum","species",65617,"invalid subgroup of","Chaeomysticeti","unranked clade",53254,"Sarmatian","",12.7,11.608,29032
+478726,"occ",,,47623,"Protodelphinus capellinii","species",64379,"","Protodelphinus capellinii","species",64379,"Aquitanian","",23.03,20.44,12610
+478733,"occ",,,47465,"Ziphirostrum gracile","species",64611,"subjective synonym of","Ziphirostrum marginatum","species",64609,"Late Miocene","Late Pliocene",11.608,2.588,12767
+486153,"occ",,,48646,"Steno bellardii","species",66754,"subjective synonym of","Etruridelphis giulii","species",63824,"Piacenzian","Gelasian",3.6,1.806,12981
+486167,"occ",,,48652,"Dioplodon n. sp. danconae","species",68004,"nomen dubium","Mesoplodon","genus",36763,"Piacenzian","",3.6,2.588,26035
+488663,"occ",,,47425,"Squalodelphis cf. fabianii","species",64078,"","Squalodelphis fabianii","species",64078,"Burdigalian","",20.44,15.97,13125
+489923,"occ",13519,,49395,"Eosqualodon n. sp. latirostris","species",90871,"","Eosqualodon latirostris","species",90634,"Aquitanian","",23.03,20.44,13196
+492120,"occ",,,47428,"Steno sp.","genus",36855,"","Steno","genus",36855,"Piacenzian","",3.6,2.588,26039
+492122,"occ",,,47428,"Steno bellardii","species",66754,"subjective synonym of","Etruridelphis giulii","species",63824,"Piacenzian","",3.6,2.588,13332
+492135,"occ",,,49688,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Pliocene","",5.333,2.588,13332
+494406,"occ",,,47125,"Eurhinodelphis sp.","genus",36717,"","Eurhinodelphis","genus",36717,"Burdigalian","Messinian",20.44,5.333,13419
+494419,"occ",,,47125,"Argyrocetus sp.","genus",36668,"","Argyrocetus","genus",36668,"Burdigalian","Messinian",20.44,5.333,13419
+502044,"occ",,,51015,"Delphinapterus leucas","species",65078,"","Delphinapterus leucas","species",64545,"Late Pleistocene","",0.126,0.0117,13616
+502725,"occ",,,46950,"Eurhinodelphis informal sp. A","genus",36717,"obsolete variant of","Eurhinodelphis","genus",36717,"Burdigalian","",20.44,15.97,13631
+506436,"occ",,,46167,"Megaptera sp.","genus",36760,"","Megaptera","genus",36760,"Messinian","",7.246,5.333,13672
+506478,"occ",,,50343,"Delphinidae ? indet.","family",42953,"","Delphinidae","family",42953,"Zanclean","",5.333,3.6,13672
+506571,"occ",,,51419,"Mysticeti ? indet.","suborder",42971,"","Mysticeti","suborder",42971,"Late Miocene","Late Pliocene",11.608,2.588,13672
+508164,"occ",13188,,51591,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Zanclean","",5.333,3.6,12845
+513725,"occ",18332,,45469,"Piscobalaena sp.","genus",63932,"","Piscobalaena","genus",63932,"Serravallian","",13.82,11.62,18255
+515486,"occ",,,52185,"Delphinidae indet.","family",42953,"","Delphinidae","family",42953,"Tortonian","",11.62,7.246,6029
+515487,"occ",,,52185,"cf. Delphinapteridae indet.","subfamily",91100,"subjective synonym of","Delphinapterinae","subfamily",63531,"Tortonian","",11.62,7.246,6029
+518070,"occ",,,52582,"aff. Lagenorhynchus sp.","genus",36746,"","Lagenorhynchus","genus",36746,"Zanclean","",5.333,3.6,14141
+518073,"occ",,,52584,"Stenodelphis n. sp. sternbergi","species",67003,"recombined as","Parapontoporia sternbergi","species",67003,"Piacenzian","",3.6,2.588,14143
+530140,"occ",,,54125,"Mesocetus aff. agrami","species",69125,"","Mesocetus agrami","species",69125,"Tortonian","",11.62,7.246,14630
+530460,"occ",,,54172,"Lophocetinae indet.","subfamily",63522,"","Lophocetinae","subfamily",63522,"Serravallian","",13.82,11.62,14646
+530466,"occ",,,52111,"Macrokentriodon sp.","genus",63626,"","Macrokentriodon","genus",63626,"Tortonian","",11.62,7.246,14646
+537397,"occ",18388,,14149,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Miocene","",23.03,5.333,12845
+541063,"occ",,,56563,"Acrodelphis fuchsii","species",65726,"recombined as","Kentriodon fuchsii","species",65723,"Late Miocene","",11.608,5.333,15232
+541121,"occ",,,45886,"Squalodontidae indet.","family",42939,"","Squalodontidae","family",42939,"Burdigalian","",20.44,15.97,15235
+544199,"occ",,,56883,"Balaenoptera sp.","genus",36678,"","Balaenoptera","genus",36678,"Calabrian","",1.806,0.781,15331
+544512,"occ",,,56952,"Balaenopteridae indet.","family",42977,"","Balaenopteridae","family",42977,"Middle Miocene","",15.97,11.608,15356
+545026,"occ",,,13079,"Delphinoidea indet.","superfamily",53268,"","Delphinoidea","superfamily",53268,"Messinian","",7.246,5.333,15398
+545340,"occ",,,57119,"Squalodon sp.","genus",36852,"","Squalodon","genus",36852,"Chattian","",28.1,23.03,15422
+545719,"occ",,,57138,"Hoplocetus crassidens","species",64696,"","Hoplocetus crassidens","species",64696,"Pliocene","",5.333,2.588,15444
+557244,"occ",33284,,57700,"Aglaocetus patulus","species",62952,"","Aglaocetus patulus","species",62952,"Langhian","",15.97,13.82,62139
+557598,"occ",,,52582,"Physeterinae indet.","subfamily",62911,"","Physeterinae","subfamily",62911,"Zanclean","",5.333,3.6,6011
+557615,"occ",,,57776,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Chattian","",28.1,23.03,12691
+557624,"occ",,,52183,"Liolithax aff. kernensis","species",63840,"","Liolithax kernensis","species",63840,"Langhian","",15.97,13.82,12691
+558118,"occ",,,56942,"Burtinopsis sp.","genus",36686,"nomen dubium","Mysticeti","suborder",42971,"Early Pliocene","Late Pliocene",5.333,2.588,15571
+558469,"occ",,,57981,"Stenodelphininae indet.","family",63586,"subjective synonym of","Iniidae","family",93947,"Pliocene","",5.333,2.588,15591
+559595,"occ",,,58148,"n. gen. Miodelphis n. sp. californicus","species",64563,"","Miodelphis californicus","species",64563,"Chattian","",28.1,23.03,12749
+560687,"occ",,,58419,"Monodon monoceros","species",64546,"","Monodon monoceros","species",64546,"Middle Pleistocene","",0.781,0.126,16564
+560688,"occ",,,58420,"Delphinapterus leucas","species",65078,"","Delphinapterus leucas","species",64545,"Early Pleistocene","",2.588,0.781,16564
+560689,"occ",,,58421,"Phocoena communis","species",63542,"species not entered","Phocoena","genus",36803,"Middle Pleistocene","",0.781,0.126,16564
+565532,"occ",,,47465,"Balaenopteridae indet.","family",42977,"","Balaenopteridae","family",42977,"Late Miocene","Late Pliocene",11.608,2.588,16855
+565533,"occ",,,47465,"Balaenidae indet.","family",42978,"","Balaenidae","family",42978,"Late Miocene","Late Pliocene",11.608,2.588,16855
+565552,"occ",,,57733,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Tortonian","",11.62,7.246,15419
+575055,"occ",,,45637,"Cynthiacetus maxwelli","species",63144,"","Cynthiacetus maxwelli","species",63144,"Priabonian","",38,33.9,12000
+614662,"occ",,,66066,"n. gen. Caviziphius n. sp. altirostris","species",86864,"","Caviziphius altirostris","species",86864,"Middle Miocene","Late Miocene",15.97,5.333,18923
+616564,"occ",,,66288,"Delphinus n. sp. restitutensis","species",69772,"nomen dubium","Odontoceti","suborder",42937,"Burdigalian","",20.44,15.97,18970
+622605,"occ",,,67022,"Plesiocetus hupschii","species",69123,"recombined as","Plesiocetopsis hupschii","species",69123,"Burdigalian","Serravallian",20.44,11.62,19106
+622607,"occ",,,67022,"Mesocetus n. sp. longirostris","species",64457,"","Mesocetus longirostris","species",64457,"Burdigalian","Serravallian",20.44,11.62,12642
+622633,"occ",,,67027,"Herpetocetus scaldiensis","species",64450,"","Herpetocetus scaldiensis","species",64450,"Zanclean","",5.333,3.6,12326
+622635,"occ",,,59123,"Plesiocetus hupschii","species",69123,"recombined as","Plesiocetopsis hupschii","species",69123,"Langhian","Serravallian",15.97,11.62,19106
+632293,"occ",,,68031,"Sotalia guianensis","species",69750,"subjective synonym of","Sotalia fluviatilis","species",94788,"Holocene","",0.0117,0,19478
+634505,"occ",,,68263,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Serravallian","",13.82,11.62,19640
+656108,"occ",,,57782,"Cetophis heteroclitus","species",63615,"nomen dubium","Odontoceti","suborder",42937,"Langhian","",15.97,13.82,23697
+656166,"occ",,,55395,"Cetotherium parvum","species",65769,"","Cetotherium parvum","species",65769,"Tortonian","",11.62,7.246,15442
+664446,"occ",,,71537,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Tortonian","",11.62,7.246,24176
+666768,"occ",,,70835,"Mesocetus siphunculus","species",64012,"","Mesocetus siphunculus","species",64012,"Langhian","",15.97,13.82,24251
+666835,"occ",,,71804,"Kentriodon sp.","genus",36743,"","Kentriodon","genus",36743,"Langhian","",15.97,13.82,24251
+666857,"occ",,,71806,"Parietobalaena palmeri","species",62938,"","Parietobalaena palmeri","species",62938,"Langhian","",15.97,13.82,24251
+667515,"occ",,,71924,"Parietobalaena palmeri","species",62938,"","Parietobalaena palmeri","species",62938,"Burdigalian","",20.44,15.97,24251
+679925,"occ",,,73365,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Sarmatian","",12.7,11.608,24600
+679926,"occ",,,73366,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Sarmatian","",12.7,11.608,24600
+683624,"occ",,,73713,"Balaena mysticetus","species",64683,"","Balaena mysticetus","species",64683,"Holocene","",0.0117,0,24706
+690646,"occ",,,59062,"Balaenoptera cf. acutorostrata","species",68469,"","Balaenoptera acutorostrata","species",68469,"Pleistocene","",2.588,0.0117,24917
+699176,"occ",,,47079,"Archaeoceti indet.","suborder",42933,"","Archaeoceti","suborder",42933,"Bartonian","",41.3,38,25327
+699722,"occ",,,75142,"Tursiops truncatus","species",64472,"","Tursiops truncatus","species",102834,"Holocene","",0.0117,0,25368
+700408,"occ",,,53889,"Balaenoptera rostratella","species",64848,"nomen dubium","Balaenopteridae","family",42977,"Late Miocene","",11.608,5.333,25229
+700411,"occ",,,32040,"Heterocetus affinis","species",64455,"recombined as","Parietobalaena affinis","species",64455,"Burdigalian","",20.44,15.97,29779
+700415,"occ",,,75152,"Plesiocetus brialmonti","species",69854,"nomen dubium","Plesiocetus","genus",36817,"Serravallian","",13.82,11.62,29779
+700416,"occ",,,75152,"Plesiocetus dubius","species",69857,"nomen dubium","Plesiocetus","genus",36817,"Serravallian","",13.82,11.62,29779
+702634,"occ",19742,,75426,"Balaenidae indet.","family",42978,"","Balaenidae","family",42978,"Zanclean","",5.333,3.6,16696
+705734,"occ",,,75734,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Late Miocene","",11.608,5.333,25594
+706213,"occ",,,19342,"aff. Kampholophos sp.","genus",53141,"","Kampholophos","genus",53141,"Hemphillian","",10.3,4.9,12297
+706232,"occ",,,75784,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Blancan","",4.9,1.8,12297
+709188,"occ",,,55643,"Phocaenidae indet.","family",42964,"obsolete variant of","Phocoenidae","family",102804,"Zanclean","",5.333,3.6,12148
+709199,"occ",,,56358,"Eschrichtiidae indet.","family",42976,"","Eschrichtiidae","family",42976,"Early Pliocene","",5.333,3.6,12148
+709262,"occ",,,69528,"Balaenopteridae indet.","family",42977,"","Balaenopteridae","family",42977,"Messinian","",7.246,5.333,12148
+709799,"occ",,,53885,"Delphinidae indet.","family",42953,"","Delphinidae","family",42953,"Pliocene","",5.333,2.588,12148
+709822,"occ",,,55920,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Middle Miocene","",15.97,11.608,12148
+719479,"occ",,,77208,"n. gen. Microberardius n. sp. africanus","species",113816,"","Microberardius africanus","species",113816,"Middle Miocene","Pliocene",15.97,2.588,26136
+719480,"occ",,,77208,"Berardiinae indet.","subfamily",113844,"","Berardiinae","subfamily",113814,"Middle Miocene","Pliocene",15.97,2.588,26136
+719482,"occ",,,77209,"Izikoziphius n. sp. angustus","species",113819,"","Izikoziphius angustus","species",113819,"Middle Miocene","Late Miocene",15.97,5.333,26136
+719492,"occ",,,77211,"n. gen. Pterocetus n. sp. benguelae","species",113832,"","Pterocetus benguelae","species",113832,"Middle Miocene","Pliocene",15.97,2.588,26136
+722390,"occ",,,77492,"cf. Tursiops sp.","genus",36865,"","Tursiops","genus",36865,"Zanclean","",5.333,3.6,26217
+722456,"occ",,,48887,"Physeteridae indet.","family",42967,"","Physeteridae","family",42967,"Serravallian","",13.82,11.62,26220
+722481,"occ",,,52582,"Megaptera sp.","genus",36760,"","Megaptera","genus",36760,"Zanclean","",5.333,3.6,26220
+723639,"occ",,,77694,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Middle Miocene","Pleistocene",15.97,0.0117,26241
+724130,"occ",,,58419,"Delphinus sp.","genus",36703,"","Delphinus","genus",36703,"Middle Pleistocene","",0.781,0.126,26261
+730609,"occ",,,78510,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Serravallian","",13.82,11.62,26394
+730616,"occ",,,78519,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Serravallian","Tortonian",13.82,7.246,26394
+738565,"occ",32024,,79346,"Basilosauridae ? indet.","family",42936,"","Basilosauridae","family",42936,"Bortonian","Kaiatan",43,36,12845
+741740,"occ",,,79726,"Monodontidae indet.","family",42963,"","Monodontidae","family",42963,"Zanclean","",5.333,3.6,26798
+755692,"occ",,,80914,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Early Miocene","",23.03,15.97,27227
+766661,"occ",,,20643,"Delphinapterus ? sp.","genus",36699,"","Delphinapterus","genus",36699,"Late Pleistocene","",0.126,0.0117,2872
+777717,"occ",,,83478,"Kogia breviceps","species",64510,"","Kogia breviceps","species",64509,"Holocene","",0.0117,0,27683
+777729,"occ",,,83490,"Physeter macrocephalus","species",68698,"","Physeter macrocephalus","species",68698,"Holocene","",0.0117,0,27683
+782527,"occ",,,84332,"Aetiocetus cotylalveus","species",63473,"","Aetiocetus cotylalveus","species",63473,"Rupelian","",33.9,28.1,28334
+786789,"occ",,,84888,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Late Pleistocene","",0.126,0.0117,2018
+786941,"occ",,,84945,"Delphinus n. sp. acutidens","species",63972,"subjective synonym of","Physeterula dubusi","species",64464,"Miocene","",23.03,5.333,23603
+787179,"occ",,,49982,"Delphinapterus n. sp. orcinus","species",112864,"nomen dubium","Odontoceti","suborder",42937,"Zanclean","",5.333,3.6,13421
+787587,"occ",,,57780,"Hoplocetus n. sp. crassidens","species",64696,"","Hoplocetus crassidens","species",64696,"Burdigalian","",20.44,15.97,24709
+787658,"occ",,,77581,"Orycterocetus quadratidens","species",63668,"","Orycterocetus quadratidens","species",63668,"Zanclean","",5.333,3.6,13727
+788249,"occ",,,76978,"n. gen. Priscophyseter n. sp. typus","species",63952,"","Priscophyseter typus","species",63952,"Pliocene","",5.333,2.588,13952
+789235,"occ",,,20646,"Cetacea indet.","unranked clade",147596,"","Cetacea","unranked clade",36652,"Late Pleistocene","",0.126,0.0117,28773
+789824,"occ",,,57732,"Squalodon grateloupi","species",64511,"misspelling of, obsolete variant of","Squalodon grateloupii","species",63728,"Burdigalian","",20.44,15.97,28853
+789835,"occ",,,85338,"Squalodon sp.","genus",36852,"","Squalodon","genus",36852,"Neogene","",23.03,2.588,28855
+790124,"occ",,,85507,"Pachyacanthus suessi","species",138658,"misspelling of, obsolete variant of","Pachyacanthus suessii","species",64470,"Miocene","",23.03,5.333,18748
+797035,"occ",,,86616,"Archaeoceti indet.","suborder",42933,"","Archaeoceti","suborder",42933,"Priabonian","",38,33.9,15072
+798728,"occ",,,86897,"Delphinus (Grampus) n. sp. heavisidei","species",82043,"species not entered","Grampus","genus",82043,"Holocene","",0.0117,0,12161
+798824,"occ",,,86919,"Mesoplodon n. sp. bowdoini","species",81915,"","Mesoplodon bowdoini","species",81915,"Holocene","",0.0117,0,12161
+798942,"occ",,,86924,"Balaenoptera n. sp. acutorostrata","species",68469,"","Balaenoptera acutorostrata","species",68469,"Holocene","",0.0117,0,12161
+802472,"occ",,,53889,"Balaenoptera borealina","species",64865,"nomen dubium","Balaenopteridae","family",42977,"Late Miocene","",11.608,5.333,29207
+803459,"occ",,,87489,"Delphinidae indet.","family",42953,"","Delphinidae","family",42953,"Zanclean","",5.333,3.6,29458
+804481,"occ",,,76977,"Delphinus sp.","genus",36703,"","Delphinus","genus",36703,"Pliocene","",5.333,2.588,29503
+805125,"occ",,,87865,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Tortonian","Messinian",11.62,5.333,12682
+805312,"occ",,,74593,"Delphinoidea indet.","superfamily",53268,"","Delphinoidea","superfamily",53268,"Waitakian","",25.2,21.7,29544
+805313,"occ",,,87865,"Eurhinodelphinidae indet.","family",53264,"","Eurhinodelphinidae","family",63595,"Tortonian","Messinian",11.62,5.333,29544
+805335,"occ",,,74593,"Squalodelphinidae indet.","family",53261,"","Squalodelphinidae","family",63677,"Waitakian","",25.2,21.7,29544
+813340,"occ",,,89447,"Stenella sp.","genus",102903,"","Stenella","genus",36854,"Zanclean","",5.333,3.6,16749
+813618,"occ",,,67027,"Balaenoptera musculoides","species",64864,"nomen dubium","Balaenopteridae","family",42977,"Zanclean","",5.333,3.6,19106
+813622,"occ",,,57783,"Balaenoptera musculoides","species",64864,"nomen dubium","Balaenopteridae","family",42977,"Pliocene","",5.333,2.588,19106
+813825,"occ",,,45665,"Lophocephalus parki","species",63214,"recombined as","Mauicetus parki","species",63214,"Duntroonian","",27.3,25.2,12036
+819714,"occ",,,90111,"Orcinus orca","species",64541,"","Orcinus orca","species",64540,"Holocene","",0.0117,0,30226
+830778,"occ",,,91707,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Pleistocene","Holocene",2.588,0,30915
+872891,"occ",,,96776,"Physeter sp.","genus",36807,"","Physeter","genus",36807,"Pliocene","",5.333,2.588,32997
+878720,"occ",,,45474,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Zanclean","",5.333,3.6,33248
+899607,"occ",,,100260,"Allodelphis n. sp. woodburnei","species",173470,"","Allodelphis woodburnei","species",173470,"Aquitanian","",23.03,20.44,34413
+922238,"occ",,,105557,"Haborophocoena n. sp. minutus","species",178171,"","Haborophocoena minutus","species",178171,"Zanclean","",5.333,3.6,35264
+929105,"occ",,,106269,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Messinian","",7.246,5.333,35412
+937671,"occ",,,108319,"Orcaella heinsohni","species",183834,"","Orcaella heinsohni","species",183834,"Holocene","",0.0117,0,35929
+938109,"occ",,,102954,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Late Pleistocene","Holocene",0.126,0,35949
+994438,"occ",,,120143,"Neobalaenidae indet.","subfamily",53255,"obsolete variant of","Neobalaeninae","subfamily",53255,"Late Miocene","",11.608,5.333,38453
+1002229,"occ",,,121998,"Waipatiidae indet.","family",53260,"","Waipatiidae","family",53260,"Burdigalian","",20.44,15.97,38808
+1006777,"occ",,,122718,"Basilosaurus cetoides","species",53153,"","Basilosaurus cetoides","species",63132,"Priabonian","",38,33.9,36198
+1012812,"occ",,,123861,"n. gen. Meherrinia n. sp. isoni","species",217405,"","Meherrinia isoni","species",217405,"Messinian","",7.246,5.333,39849
+1015449,"occ",,,54171,"Cetotheriidae ? indet.","family",42973,"","Cetotheriidae","family",66751,"Serravallian","",13.82,11.62,40073
+1021009,"occ",,,124990,"Dorudon atrox","species",53288,"","Dorudon atrox","species",62994,"Priabonian","",38,33.9,10457
+1021014,"occ",,,124994,"Dorudon atrox","species",53288,"","Dorudon atrox","species",62994,"Priabonian","",38,33.9,10457
+1021018,"occ",,,124998,"Dorudon atrox","species",53288,"","Dorudon atrox","species",62994,"Bartonian","Priabonian",41.3,33.9,10457
+1021057,"occ",,,125025,"Dorudon atrox","species",53288,"","Dorudon atrox","species",62994,"Priabonian","",38,33.9,10457
+1034770,"occ",26835,,123876,"Basilosauridae indet.","family",42936,"","Basilosauridae","family",42936,"Priabonian","",38,33.9,44050
+1069251,"occ",,,132392,"Archaeoceti indet.","suborder",42933,"","Archaeoceti","suborder",42933,"Eocene","",56,33.9,42656
+1069864,"occ",,,132552,"Basilosauridae indet.","family",42936,"","Basilosauridae","family",42936,"Priabonian","",38,33.9,42488
+1070486,"occ",,,132705,"Basilosauridae indet.","family",42936,"","Basilosauridae","family",42936,"Eocene","",56,33.9,42488
+1071635,"occ",,,32901,"Cetacea indet.","unranked clade",36652,"","Cetacea","unranked clade",36652,"Lutetian","",47.8,41.3,42488
+1107491,"occ",,,96952,"Masracetus sp.","genus",118888,"","Masracetus","genus",118888,"Priabonian","",38,33.9,45231
+1115160,"occ",,,52073,"Cetotherium n. sp. riabinini","species",264012,"","Cetotherium riabinini","species",264012,"Tortonian","",11.62,7.246,45968
+1126110,"occ",,,47427,"Ziphiidae indet.","family",42951,"","Ziphiidae","family",42951,"Burdigalian","",20.44,15.97,15052
+1126116,"occ",,,96780,"Kentriodontidae indet.","family",42938,"","Kentriodontidae","family",42938,"Tortonian","",11.62,7.246,46366
+1127399,"occ",,,47427,"Iniidae indet.","family",53142,"","Iniidae","family",93947,"Burdigalian","",20.44,15.97,46388
+1190622,"occ",,,117470,"cf. Balaenoptera sp.","genus",36678,"","Balaenoptera","genus",36678,"Messinian","",7.246,5.333,49737
+1190970,"occ",,,153827,"Delphinidae ? indet.","family",42953,"","Delphinidae","family",42953,"Piacenzian","",3.6,2.588,49844
+1190972,"occ",,,153829,"Balaenopteridae ? indet.","family",42977,"","Balaenopteridae","family",42977,"Zanclean","",5.333,3.6,49844
+1195560,"occ",,,154642,"Odobenocetops sp.","genus",62922,"","Odobenocetops","genus",62922,"Tortonian","Messinian",11.62,5.333,50270
+1196175,"occ",,,57734,"Cetotherium n. sp. klinderi","species",69835,"invalid subgroup of","Chaeomysticeti","unranked clade",53254,"Sarmatian","",12.7,11.608,11981
+1197686,"occ",,,55600,"Iniidae indet.","family",53142,"","Iniidae","family",93947,"Huayquerian","",9,6.8,50417
+1198043,"occ",,,154939,"Herpetocetus morrowi","species",288162,"","Herpetocetus morrowi","species",288162,"Piacenzian","",3.6,2.588,49971
+1204812,"occ",,,156031,"Agorophius pygmaeus","species",63210,"","Agorophius pygmaeus","species",63209,"Chattian","",28.1,23.03,43401
+1217433,"occ",,,159112,"Dorudon atrox","species",53288,"","Dorudon atrox","species",62994,"Priabonian","",38,33.9,52063
+1217439,"occ",,,159115,"cf. Stromerius sp.","genus",118886,"","Stromerius","genus",118886,"Priabonian","",38,33.9,52063
+1225219,"occ",,,160850,"Balaena mysticetus","species",64683,"","Balaena mysticetus","species",64683,"Holocene","",0.0117,0,52465
+1243354,"occ",,,163843,"Delphinida indet.","infraorder",63496,"","Delphinida","infraorder",63496,"Laventan","",13.8,11.8,53470
+1261889,"occ",,,91482,"Agorophius pygmaeus","species",63210,"","Agorophius pygmaeus","species",63209,"Rupelian","",33.9,28.1,43401
+1264526,"occ",,,167964,"Balaenoptera physalus","species",64490,"","Balaenoptera physalus","species",72269,"Holocene","",0.0117,0,54978
+1264532,"occ",,,167970,"Megaptera novaeangliae","species",70685,"","Megaptera novaeangliae","species",64491,"Holocene","",0.0117,0,54979
+1264533,"occ",,,167971,"Megaptera novaeangliae","species",70685,"","Megaptera novaeangliae","species",64491,"Holocene","",0.0117,0,54979
+1264543,"occ",,,167981,"Cephalorhynchus heavisidii","species",82045,"","Cephalorhynchus heavisidii","species",82044,"Holocene","",0.0117,0,54983
+1265925,"occ",,,168101,"Stenella attenuata","species",64533,"","Stenella attenuata","species",93945,"Holocene","",0.0117,0,55062
+1266046,"occ",,,168146,"Grampus griseus","species",63557,"","Grampus griseus","species",63556,"Holocene","",0.0117,0,55079
+1266049,"occ",,,168148,"Grampus griseus","species",63557,"","Grampus griseus","species",63556,"Holocene","",0.0117,0,55079
+1266079,"occ",,,168180,"Pseudorca crassidens","species",64544,"","Pseudorca crassidens","species",64543,"Holocene","",0.0117,0,55081
+1266109,"occ",,,168209,"Globicephala macrorhynchus","species",69995,"","Globicephala macrorhynchus","species",69994,"Holocene","",0.0117,0,55082
+1266230,"occ",,,168238,"Neophocaena phocaenoides","species",64883,"","Neophocaena phocaenoides","species",64547,"Holocene","",0.0117,0,55093
+1266876,"occ",,,168368,"Berardius arnuxii","species",63590,"","Berardius arnuxii","species",63590,"Holocene","",0.0117,0,55103
+1266886,"occ",,,168381,"Indopacetus pacificus","species",63852,"","Indopacetus pacificus","species",63849,"Holocene","",0.0117,0,55081
+1268046,"occ",,,168574,"Mesoplodon sp.","genus",36763,"","Mesoplodon","genus",36763,"Holocene","",0.0117,0,55079
+1310849,"occ",,,175950,"Delphinapterus leucas","species",65078,"","Delphinapterus leucas","species",64545,"Holocene","",0.0117,0,57688
+1314666,"occ",,,176411,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Holocene","",0.0117,0,58039
+1343697,"occ",,,181813,"Balaenopteridae indet.","family",42977,"","Balaenopteridae","family",42977,"Tortonian","",11.62,7.246,60474
+1353624,"occ",,,60256,"Delphinidae indet.","family",42953,"","Delphinidae","family",42953,"Serravallian","",13.82,11.62,60839
+1356050,"occ",,,184130,"Cetotheriidae indet.","family",42973,"","Cetotheriidae","family",66751,"Neogene","",23.03,2.588,61526
+1361580,"occ",,,185161,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Chattian","",28.1,23.03,62125
+1361776,"occ",,,57700,"Odontoceti indet.","suborder",42937,"","Odontoceti","suborder",42937,"Langhian","",15.97,13.82,62139
+1361779,"occ",,,57700,"Mysticeti indet.","suborder",42971,"","Mysticeti","suborder",42971,"Langhian","",15.97,13.82,62139
+1372049,"occ",,,79793,"Parietobalaena palmeri","species",62938,"","Parietobalaena palmeri","species",62938,"Langhian","",15.97,13.82,62831
+1372055,"occ",,,79793,"Delphinodon sp.","genus",36701,"","Delphinodon","genus",36701,"Langhian","",15.97,13.82,62831
+1374561,"occ",,,187600,"Cetotherium capellinii","species",68443,"","Cetotherium capellinii","species",68443,"Zanclean","",5.333,3.6,62988
+1374563,"occ",,,187602,"Burtinopsis similis","species",64449,"nomen dubium","Mysticeti","suborder",42971,"Zanclean","",5.333,3.6,62988
+1383264,"occ",,,189574,"Physeter sp.","genus",36807,"","Physeter","genus",36807,"Middle Miocene","Early Pleistocene",15.97,0.781,63715
+1383269,"occ",,,189574,"Balaena sp.","genus",36676,"","Balaena","genus",36676,"Middle Miocene","Early Pleistocene",15.97,0.781,63715
+1383271,"occ",,,189574,"Balaenoptera borealina","species",64865,"nomen dubium","Balaenopteridae","family",42977,"Middle Miocene","Early Pleistocene",15.97,0.781,63715
+1383316,"occ",,,189573,"Protororqualus cuvieri","species",114372,"","Protororqualus cuvieri","species",68447,"Middle Miocene","Early Pleistocene",15.97,0.781,63715
+1383320,"occ",,,189573,"Pithanodelphis cornutus","species",64665,"","Pithanodelphis cornutus","species",64659,"Middle Miocene","Early Pleistocene",15.97,0.781,63715
+1386031,"occ",,,47428,"Balaenula sp.","genus",36680,"","Balaenula","genus",36680,"Piacenzian","",3.6,2.588,64034
+1386040,"occ",,,153712,"Balaenopteridae indet.","family",42977,"","Balaenopteridae","family",42977,"Piacenzian","",3.6,2.588,64034
+1390632,"occ",,,187602,"Archaebalaenoptera castriarquati","species",106910,"","Archaebalaenoptera castriarquati","species",106910,"Zanclean","",5.333,3.6,64523
